@@ -6,6 +6,7 @@ Este template demonstra o exemplo do uso de uma câmera customizada dentro de um
 
 - IONIC 3
 - Camera Preview: https://ionicframework.com/docs/native/camera-preview/
+- Fonte: https://code.tutsplus.com/tutorials/how-to-create-a-camera-app-with-ionic-2--cms-28205
 
  ### Recursos Existentes:
  - Iniciar Câmera
